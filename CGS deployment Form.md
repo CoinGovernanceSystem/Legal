@@ -5,13 +5,13 @@
 
 ### 1. **Introduction**
 
-**Coin Governance System** (hereinafter, CGS) is a Platform owned by **Governance System Platform, Ltd.**. CGS consists of a series of services to Initial Coin Offering (hereinafter, ICO) participants whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+**Coin Governance System** (hereinafter, CGS) is a Platform owned by **Wevern, Ltd.**. CGS consists of a series of services to Initial Coin Offering (hereinafter, ICO) participants whereby controls are set to monitor ICOs in accordance with the Initial established goals.
 
 Participants of this Platform are able to create a decentralized escrow to hold the funds raised in their own **Token Sale** as **ICO Launchers**; to open a claim to withdraw their correspondent remained ethers, as **ICO Token Holders**; or to vote on an open claim to decide whether ICO token holders are enabled to withdraw the remained ethers in the escrow or not, as **CGS Token Holders** or **arbiters**.
 
 By using CGS Platform, as ICO Launcher, including by simply navigating through the website, you agree that you and any person you allow to access the Platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
 
-This Agreement is between **you** and **Governance System Platform, Ltd.** (hereinafter, **we**, **CGS**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform, as ICO Launcher implementing the Coin Governance System, and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. 
+This Agreement is between **you** and **Wevern, Ltd.** (hereinafter, **we**, **CGS**, **Coin Governance System** the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform, as ICO Launcher implementing the Coin Governance System, and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. 
 
 Specific or technical terms used herein are defined in Section Definitions of this Agreement.
 
@@ -21,7 +21,7 @@ This Agreement sets forth terms on which ICO Launchers interact with ICO token h
 
 ### 2. **ICO Launcher's Obligations**
 
-The ICO Launcher wishes to cooperate with CGS in order to integrate a software developed by Governance System Platform for its Initial Coin Offering.
+The ICO Launcher wishes to cooperate with CGS in order to integrate a software developed by CGS for its Initial Coin Offering.
  
 The purpose of this Terms and Conditions (hereinafter, “Terms & Conditions” or “T&C”) is to define the cooperation between CGS and the ICO Launcher, according to the following principles:
 
