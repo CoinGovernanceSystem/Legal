@@ -154,8 +154,8 @@ party.
 
 ## Privacy Policy of cgs.vote.
 
-For more information about our data protection and privacy policy see ourPrivacy
-policy
+For more information about our data protection and privacy policy see our Privacy
+Policy.
 
 ## Use of cookies
 
