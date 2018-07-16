@@ -18,13 +18,13 @@
 
 ### 1. <a name="introduction">**Introduction**</a>
 
-**Coin Governance System** (hereinafter, CGS) is a Platform owned by **Governance System Platform, Ltd.** CGS consists of a series of services to Initial Coin Offering (hereinafter, ICO) participants whereby controls are set to monitor ICOs in accordance with the Initial established goals.
+**Coin Governance System** (hereinafter, CGS) is a Platform owned by **Wevern, Ltd.** CGS consists of a series of services to Initial Coin Offering (hereinafter, ICO) participants whereby controls are set to monitor ICOs in accordance with the Initial established goals.
 
 Participants of this Platform are able to create a decentralized escrow to hold the funds raised in their own **Token Sale** as **ICO Launchers**; to open a claim to withdraw their correspondent remained ethers, as **ICO Token Holders**; or to vote on an open claim to decide whether ICO token holders are enabled to withdraw the remained ethers in the escrow or not, as **CGS Token Holders** or **arbiters**.
 
 By using CGS, as ICO Launcher, ICO token holder, or CGS token holder, including by simply navigating through the website, you agree that you and any person you allow to access the Platform through your account, will abide by this Terms and Conditions (the “Agreement”), which is set forth in its entirety below. 
 
-This Agreement is between **you** and **Governance System Platform Ltd.** (hereinafter, **we**, **CGS**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section Functioning of the Services.
+This Agreement is between **you** and **Wevern Ltd.** (hereinafter, **we**, **CGS**, the **Platform** or the **Company**). This Agreement sets the conditions of your access to the Platform and use the Services and websites offered by the Company (the “Services”). Your access to and use of the Services are subject to your acceptance of and compliance with this Agreement. For more information, see Section Functioning of the Services.
 
 Specific or technical terms used herein are defined in Section Definitions of this Agreement.
 
@@ -292,7 +292,7 @@ CGS respects intellectual property rights and expects its users to do the same. 
 
 Please write to info@cgs.vote to submit a notice of alleged copyright infringement. Alternatively a notice of alleged copyright infringement may be sent to CGS's designated copyright agent at the following address:
 
-Governance System Platform, Ltd.
+Wevern, Ltd.
 Calle Cristobal Bordiú 13, Entreplanta B
 Madrid, 28003, Spain
 
@@ -306,11 +306,11 @@ A notification of alleged copyright infringement must be addressed to CGS as lis
 * A statement that the information in the notification is accurate, and that the complaining party is the owner of the right that is allegedly infringed, or agent for the owner.
 * We should also let you know that CGS has a policy to terminate in appropriate circumstances the accounts of subscribers who are repeat infringers.
 
-Copyright © 2017 Governance System Platform. All rights reserved.
+Copyright © 2017 Wevern, Ltd. All rights reserved.
 
 ### 10. <a name="privacy-policy">**Privacy Policy**</a>
 
-Please review our [Privacy Policy](https://github.com/Icofunding/Legal/blob/master/cgs/Privacy%20Policy%20(EN).md) to understand how we collect information about companies and individuals through our Platform and Site.
+Please review our [Privacy Policy](https://github.com/CoinGovernanceSystem/Legal/blob/master/Privacy%20Policy%20(EN).md) to understand how we collect information about companies and individuals through our Platform and Site.
 
 CGS can modify or update the Privacy Policy from time to time and you should review this page and the Privacy Policy link periodically. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Use and Privacy Policy. If you do not agree to any of these terms or any future Terms and Conditions or Privacy Policy terms, do not use or access (or continue to access) the Service.
 
@@ -345,9 +345,10 @@ Renouncing any other jurisdiction that could correspond to them, the parties sub
 
 And in proof of their compliance, sign the present Agreement, the Spanish version being the only one valid and the English a non-binding translation, in duplicate and to a single effect, in the place and date above indicated.
 
-The Services are operated and provided by Governance System Platform, of UK nationality, with address to professional effects at c/ Cristobal Bordiú 13, Estreplanta B, 28003, Madrid (Spain), registered with Fiscal Identification Number (CiF) B-87890588.
-For any contact or communication related to this Agreement, please write to info@icofunding.com. All notifications in connection with this agreement must take place in writing. Instruction verbally communicated shall be confirmed in writing.
+The Services are operated and provided by Wevern Ltd, of UK nationality, with address to professional effects at c/ Cristobal Bordiú 13, Estreplanta B, 28003, Madrid (Spain).
 
-Last updated: Sept 28, 2017 · CGS and Coin Governance System are a trademarks of Governance System Platform, Ltd.
+For any contact or communication related to this Agreement, please write to info@cgs.vote. All notifications in connection with this agreement must take place in writing. Instruction verbally communicated shall be confirmed in writing.
+
+Last updated: Sept 28, 2017 · CGS and Coin Governance System are a trademarks of Wevern, Ltd.
 
 #
