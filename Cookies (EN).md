@@ -2,7 +2,7 @@
 
 Before you start browsing, we inform you that we use cookies with different purposes on the web https://cgs.vote, so that you can decide if you want them installed on your computer or not.
 
-If you continue browsing at https://cgs.vote, ICOFUNDING S.L. (hereinafter, ICOFUNDING) will deduct that you accept the installation of the cookies, and that you give the consent to be able to install them on your computer.
+If you continue browsing at https://cgs.vote, Wevern Ltd, (hereinafter, **Coin Governance System** or **CGS**) will deduct that you accept the installation of the cookies, and that you give the consent to be able to install them on your computer.
 
 ## WHAT ARE THE COOKIES?
 
@@ -107,6 +107,6 @@ LinkedIn provides buttons and other features so you can share links to our Web i
 
 The specific opt-out systems indicated in the table above regarding the cookie in question (these systems can cause a rejection cookie to be installed on your computer for your opt-out choice to work); or other third-party tools, available online, that allow users to detect cookies on each Web site they visit and manage their deactivation.
 
-ICOFUNDING is not responsible for the content and veracity of the privacy policies of the third parties included in this cookie policy.
+CGS is not responsible for the content and veracity of the privacy policies of the third parties included in this cookie policy.
 
-If you have any questions or concerns about this cookie policy, you may contact ICOFUNDING at info@icofunding.com
+If you have any questions or concerns about this cookie policy, you may contact CGS at info@cgs.vote
