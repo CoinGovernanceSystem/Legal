@@ -6,15 +6,15 @@ COIN GOVERNANCE SYSTEM will collect the following information provided by the Us
 
 #### CONTACT form: 
 
-For any matter connected with the processing of data of natural persons by ICOFUNDING you may contact the email address rgpd@company.com, or else you may also get in touch with our Data Protection Delegate by way of the following email address dpo@company.com.
+For any matter connected with the processing of data of natural persons by CGS you may contact the email address rgpd@company.com, or else you may also get in touch with our Data Protection Delegate by way of the following email address dpo@company.com.
 
-ICOFUNDING will collect the following information provided by the data subject:
+CGS will collect the following information provided by the data subject:
 
 #### COMMERCIAL CONTACT
 
 * **Data collected**: name, phone, email and comments.
-* **Purpose**: to deal with requests for information asked by any means about products and services offered by ICOFUNDING, and for the establishment or maintenance of business relationships.
-* **Lawful basis**: based on the consent given by the data subject, ICOFUNDING is entitled to process the data provided through the contact request, and in accordance with the legitimate interest in the development and maintenance of business relationships.
+* **Purpose**: to deal with requests for information asked by any means about products and services offered by CGS, and for the establishment or maintenance of business relationships.
+* **Lawful basis**: based on the consent given by the data subject, CGS is entitled to process the data provided through the contact request, and in accordance with the legitimate interest in the development and maintenance of business relationships.
 * **Storage limitation**: data will be kept until the moment the data subject requests their cancellation or erasure and once deleted they will be kept available to the public administration, judges and courts for the time-barring of the actions that may apply to the processing of your data.
 
 #### CURRICULUM OR RECRUITMENT: 
@@ -27,7 +27,7 @@ Purpose: made available to manage current recruitment processes or other opening
 * **Storage limitation**: applicants data will only be kept for as long as it is necessary for the purposes for which it is processed, and then data might be kept blocked and maintained for two years at the disposal of Public Administration and Justice Administration in order to determine any liability arising from the processing.
 
 * **Data collected**: professional expertise area, name, surname, telephone, e-mail, CV, cover letter and other personal data related to the Curriculum or professional profile.
-* **Purpose**: management of the application for the recruitment processes published or for other vacancies according to your professional profile that may arise in the future within the activities of ICOFUNDING.
+* **Purpose**: management of the application for the recruitment processes published or for other vacancies according to your professional profile that may arise in the future within the activities of CGS.
 * **Storage limitation**: data will be kept until you are awarded a job or until you request their erasure. They will therefore be kept for the time necessary for the purpose of the processing, and once concluded they may be kept for the time-barring of the actions that may apply to the processing of your data.
 * **Lawful basis**: consent granted by the candidate.
 Recipients: data provided and derived from the selection process may be disclosed to:
@@ -37,7 +37,7 @@ request for references.
 
 ### PROMOTIONAL OR NEWSLETTER form: 
 
-The submission of information, news, notices, reminders and promotions that may be of your interest, related to the activities of ICOFUNDING and its clients.
+The submission of information, news, notices, reminders and promotions that may be of your interest, related to the activities of CGS and its clients.
 
 * **Data collected**: email address, first name and surname.
 * **Purpose**: the registration of those who are interested in the submission of information, news and promotions, and to establish or maintain business relationships.
@@ -90,7 +90,7 @@ Management of personal data supplied at the time to become a follower. CGS corpo
 * MEDIUM: 	https://medium.com/coin-governance-system  
 * TWITTER: 	https://twitter.com/cgs_vote  
 * YOUTUBE: 	https://www.youtube.com/channel/UCEX59paxOoK4YXagiSrILOg
-* GITHUB:	https://github.com/Icofunding 
+* GITHUB:	https://github.com/CoinGovernanceSystem
 
 * **Data collected**: name, surname, email, telephone number.
 * **Purpose**: follow CGS on social networks
